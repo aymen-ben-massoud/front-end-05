@@ -21,7 +21,7 @@ body {
   width: 600px;
   height: 600px;
   transform: rotate(50deg);
-  top: -40%;
+  top: -20%;
 }
 .card {
   position: absolute;
